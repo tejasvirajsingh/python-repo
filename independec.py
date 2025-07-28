@@ -1,5 +1,5 @@
 import datetime
-
+print("hello")
 def display_facts():
     facts = [
         "India gained independence from British rule on August 15, 1947.",
