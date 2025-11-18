@@ -2,9 +2,9 @@ def calculator():
     print("Simple Python Calculator")
     print("Operations: +  -  *  /")
 
-    num1 = float(input("Enter first number: "))
+    num1 = float(input("Enter First number: "))
     op = input("Enter operator (+, -, *, /): ")
-    num2 = float(input("Enter second number: "))
+    num2 = float(input("Enter Second number: "))
 
     if op == "+":
         print("Result:", num1 + num2)
