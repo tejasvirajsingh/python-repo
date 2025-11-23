@@ -1,7 +1,7 @@
 # numeric formats
 n = 2025
 x = 12345.6789
-text = "Hello, Max !"
+text = "Hello, Max!"
 
 print(f"String: {text}")                                                # string
 print(f"Decimal: {n:d}")                                                # decimal
