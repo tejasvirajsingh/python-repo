@@ -6,7 +6,7 @@ print(43)
 print(type("Max"))
 a = 3
 b = 5
-c = 45  #max
+c = 45  
 
 print(a*b / c+ Max)
 
