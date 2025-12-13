@@ -8,7 +8,9 @@ def is_prime(n):
     return True
 
 # Ask user for range
-limit = int(input("Enter a number: "))
+
+
+limit = int(input("Enter a number:  "))
 
 print(f"Prime numbers up to {limit}:")
 for num in range(2, limit + 1):
